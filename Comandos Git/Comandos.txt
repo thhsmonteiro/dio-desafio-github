@@ -1,0 +1,13 @@
+git add.
+git add*
+git init 
+git clone
+git config --global (--set ou -- unset)
+mv 
+git commit
+
+
+
+
+flag:
+-a = mostra comandos ocultos
